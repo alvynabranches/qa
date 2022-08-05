@@ -9,4 +9,8 @@
 - GIT
 - API Testing (Postman)
 - Selenium Testing
-- Load Testing / Performance Testing
+- Performance Testing
+  - Load
+  - Stress
+  - Endurance
+  - Spike
