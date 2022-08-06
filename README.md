@@ -11,6 +11,7 @@
   - Used reqres.in for API testing using Postman (Finished)
   - Assignment: **Use all the endpoints in reqres.in documentation and create a postman collection.** 
 - Selenium Testing
+  - Demo Shown
 - Performance Testing
   - Load
   - Stress
