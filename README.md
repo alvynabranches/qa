@@ -8,7 +8,7 @@
 ## Lecture 1
 - GIT
 - API Testing (Postman)
-  - Used reqres.in for API testing using Postman
+  - Used reqres.in for API testing using Postman (Finished)
 - Selenium Testing
 - Performance Testing
   - Load
