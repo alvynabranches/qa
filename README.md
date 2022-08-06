@@ -14,3 +14,9 @@
   - Stress
   - Endurance
   - Spike
+
+Chromedriver (104)
+linux64: https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_linux64.zip
+mac64: https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_mac64.zip
+mac64_m1: https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_mac64_m1.zip
+windows: https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
